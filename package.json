@@ -1,0 +1,1 @@
+{"name": "uuid-cli", "version": "0.1.0", "description": "CLI for UUID generation", "bin": {"uuid": "./uuid.js"}, "main": "uuid.js", "scripts": {"start": "node uuid.js"}, "keywords": ["uuid", "guid", "cli"], "author": "OpenClaw 🦞", "license": "MIT"}
